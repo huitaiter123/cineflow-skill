@@ -1,0 +1,4 @@
+interface:
+  display_name: "一念成片 · CineFlow"
+  short_description: "AI导演带你完成故事、分镜、生图、视频生成与剪辑交付"
+  default_prompt: "使用 $cineflow 从我的创意开始制作视频，先完成故事和分镜。"
