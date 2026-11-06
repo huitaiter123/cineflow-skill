@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+projects/
+outputs/
+*.state.json
+*.state.json.lock
+*.mp4
+*.mov
+*.wav
+*.mp3
